@@ -6,11 +6,13 @@ Najlepszym sposobem byłoby odseparowanie również w oprogramowaniu okręgów w
 tworząc np. dla każdego województwa oddzielną aplikację.
 Każda aplikacja mogła by być niezależna i wówczas byłoby mniejsze ryzyko podatności na ataki całego systemu.
 
-1. Ile jest okręgów wyborczych w Polsce?
-Gmin: 2477
+
++ Powiatów: 314
++ Gmin: 2477
+- Ile jest okręgów wyborczych w Polsce?
 
 
-| Województwo | Siedziba władz | Ludność (2017) | Miasta | II stopień adm. | Gminy powiaty | m. na prawach powiatu | ogółem | miejskie | wiejskie | miejsko-wiejskie |
+| Województwo | Siedziba władz | Ludność (2017) | Gęstość zaludn. na km² | Miasta | powiaty | m. na prawach powiatu | ogółem | miejskie | wiejskie | miejsko-wiejskie |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | dolnośląskie | Wrocław | 2 902 365 | 146 | 91 | 26 | 4 | 169 | 35 | 78 | 56 |
 | kujawsko-pomorskie | Bydgoszcz i Toruń | 2 082 935 | 116 | 52 | 19 | 4 | 144 | 17 | 92 | 35 |
