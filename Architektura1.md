@@ -30,4 +30,4 @@ Każda aplikacja mogła by być niezależna i wówczas byłoby mniejsze ryzyko p
 | warmińsko-mazurskie | Olsztyn | 1 434 783 | 60 | 50 | 19 | 2 | 116 | 16 | 66 | 34 |
 | wielkopolskie | Poznań | 3 484 975 | 117 | 113 | 31 | 4 | 226 | 19 | 113 | 94 |
 | zachodniopomorskie | Szczecin | 1 706 579 | 75 | 66 | 18 | 3 | 113 | 11 | 47 | 55 |
-| **Polska | Warszawa | 38 422 346 | 123 | 940 | **314** | 66 | **2477** | 302 | 1537 | 638 |
+| **Polska** | Warszawa | 38 422 346 | 123 | 940 | **314** | 66 | **2477** | 302 | 1537 | 638 |
