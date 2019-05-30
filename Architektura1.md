@@ -5,7 +5,7 @@ Każde wybory odbywają się wielu miejscach jednocześnie w ograniczonych warun
 Najlepszym sposobem byłoby odseparowanie również w oprogramowaniu okręgów wyborczych,
 tworząc np. dla każdego województwa oddzielną aplikację.
 Każda aplikacja mogła by być niezależna i wówczas byłoby mniejsze ryzyko podatności na ataki całego systemu.
-
+System byłby rozproszony, na różnych serwerach, które miały by odpowiednie przygotowanie do użycia z zapasem.
 
 + Powiatów: 314
 + Gmin: 2477
